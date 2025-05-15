@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+textblob
+pytest
+python-dotenv
+pre-commit
